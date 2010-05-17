@@ -1,0 +1,9 @@
+{
+	"id": "com.palm.org.webosinternals.devtoolbox",
+	"version": "1.0.0",
+	"vendor": "webOS Internals",
+	"type": "web",
+	"main": "index.html",
+	"title": "DevToolbox",
+	"icon": "icon.png"
+}
